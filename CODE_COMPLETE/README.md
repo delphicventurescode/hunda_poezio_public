@@ -45,7 +45,12 @@ A necessary absurdity.
 
 ## 💭 Common Critiques & Thoughtful Responses
 
-This project invites skepticism — as it should. Below are critiques we’ve heard, along with honest responses.
+This project invites skepticism — as it should. 
+
+**Update:** A longer response to critiques is available under the directories with the prefix F1, F2 and F3 under this GitHub:
+https://github.com/delphicventurescode/mjolnir_poeto_book_series
+
+Below are critiques we’ve heard, along with honest responses.
 
 ### ⚠️ 1. “This isn’t real poetry — it lacks emotional depth.”
 **Response:** Emotional impact does not require human origin. The creative act is in the **curation, delivery, and context** — all deeply human. This is composition, not automation.
