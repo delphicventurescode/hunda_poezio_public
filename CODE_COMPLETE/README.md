@@ -74,12 +74,13 @@ Below are critiques we’ve heard, along with honest responses.
 
 ---
 
-## 📂 Repository Contents
+## 📂 Repository Contents For Main GitHub repo
 
-- `poems/` – curated Esperanto haiku  
-- `generator/` – code for generating and formatting haiku  
-- `readings/` – field logs and observations during dog interactions  
-- `manifesto.md` – this artist statement in a standalone file
+(Link to main GitHub repo: 
+
+- `poems/` – generated Esperanto haiku  
+- `.` – code for generating and formatting haiku  
+- `manifesto/manifesto.md` – this artist statement (slightly edited) in a standalone file
 
 ---
 
@@ -97,12 +98,7 @@ Let us know what happens. That’s part of the poetry too.
 ## 📬 Contact
 
 For collaborations, notes, or translations:
-**delphicventurescode [at] gmail [dot] com**
+**qwykrtechtechnologies [at] gmail [dot] com**
 
 ---
-
-## 🧾 License
-
-This project is released under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 License**.  
-Share freely. Build ethically.
 
