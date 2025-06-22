@@ -2,7 +2,8 @@
 
 **Hunda Poezio** (Dog Poetry) is an unconventional art project that combines Esperanto haiku, artificial intelligence, and canine audiences. The poetry — often machine-generated — is recited to dogs, especially strays and those with histories of trauma. In doing so, it builds bridges not only between species but also between humans.
 
-This repository contains the source code, curated poems, and philosophical underpinnings of the project.
+This repository contains the source code for the project:
+https://github.com/delphicventurescode/hunda_poezio (source code totally private).
 
 ---
 
