@@ -47,7 +47,7 @@ A necessary absurdity.
 
 This project invites skepticism — as it should. 
 
-**Update:** A longer response to critiques is available under the directories with the prefix F1, F2 and F3 under this GitHub:
+**Update:** A longer response to critiques and other related information is available under the directories with the prefix F1, F2 and F3 under this GitHub:
 https://github.com/delphicventurescode/mjolnir_poeto_book_series
 
 [+]
