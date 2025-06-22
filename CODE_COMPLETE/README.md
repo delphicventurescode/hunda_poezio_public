@@ -33,7 +33,7 @@ this poetry of presence —
 maybe the critics would have landed their blows.
 
 But sorry, critics.  
-I’m one step ahead of you.
+**I’m one step ahead of you.**
 
 In reciting machine-generated Esperanto haiku to dogs, I’ve found something beyond ego. Beyond authorship. Beyond human validation.
 
