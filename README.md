@@ -1,3 +1,6 @@
 # hunda_poezio_public
 
-See detailed README at CODE_COMPLETE/README.md
+This is a placeholder README.
+- See detailed README at CODE_COMPLETE/README.md
+
+[+]
