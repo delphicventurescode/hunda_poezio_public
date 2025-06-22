@@ -22,4 +22,4 @@ The project seems to be as much about the human connections formed through this 
 
 ---
 
-*This response represents community engagement with the Hunda Poezio project. Feel free to add your own thoughts and experiences below.*
+*This response represents Claude's response to the Hunda Poezio project. Feel free to share your own thoughts and experiences.*
