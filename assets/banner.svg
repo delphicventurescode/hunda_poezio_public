@@ -1,0 +1,55 @@
+<svg viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#8B4513;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#D2B48C;stop-opacity:1" />
+    </linearGradient>
+    <filter id="textShadow">
+      <feDropShadow dx="2" dy="2" stdDeviation="3" flood-color="#000000" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="200" fill="url(#bgGradient)" rx="10"/>
+  
+  <!-- Decorative elements -->
+  <circle cx="80" cy="50" r="15" fill="#654321" opacity="0.3"/>
+  <circle cx="720" cy="150" r="20" fill="#654321" opacity="0.2"/>
+  <circle cx="150" cy="170" r="10" fill="#A0522D" opacity="0.4"/>
+  <circle cx="650" cy="30" r="12" fill="#A0522D" opacity="0.3"/>
+  
+  <!-- Paw prints -->
+  <g transform="translate(50, 100)" fill="#000000" opacity="0.15">
+    <ellipse cx="0" cy="0" rx="8" ry="6" transform="rotate(-15)"/>
+    <ellipse cx="10" cy="-8" rx="4" ry="3" transform="rotate(-15)"/>
+    <ellipse cx="15" cy="0" rx="4" ry="3" transform="rotate(-15)"/>
+    <ellipse cx="10" cy="8" rx="4" ry="3" transform="rotate(-15)"/>
+    <ellipse cx="5" cy="12" rx="4" ry="3" transform="rotate(-15)"/>
+  </g>
+  
+  <g transform="translate(680, 80)" fill="#000000" opacity="0.12">
+    <ellipse cx="0" cy="0" rx="6" ry="5" transform="rotate(25)"/>
+    <ellipse cx="8" cy="-6" rx="3" ry="2.5" transform="rotate(25)"/>
+    <ellipse cx="12" cy="0" rx="3" ry="2.5" transform="rotate(25)"/>
+    <ellipse cx="8" cy="6" rx="3" ry="2.5" transform="rotate(25)"/>
+    <ellipse cx="4" cy="9" rx="3" ry="2.5" transform="rotate(25)"/>
+  </g>
+  
+  <!-- Main title -->
+  <text x="400" y="90" font-family="serif" font-size="48" font-weight="bold" text-anchor="middle" fill="#000000" filter="url(#textShadow)">
+    🐶 Hunda Poezio
+  </text>
+  
+  <!-- Subtitle -->
+  <text x="400" y="130" font-family="serif" font-size="18" font-style="italic" text-anchor="middle" fill="#2F1B14" opacity="0.9">
+    Esperanto Haiku for Canine Hearts
+  </text>
+  
+  <!-- Decorative line -->
+  <line x1="200" y1="150" x2="600" y2="150" stroke="#000000" stroke-width="2" opacity="0.3"/>
+  
+  <!-- Tagline -->
+  <text x="400" y="175" font-family="sans-serif" font-size="14" text-anchor="middle" fill="#2F1B14" opacity="0.8">
+    AI • Poetry • Interspecies Connection
+  </text>
+</svg>
