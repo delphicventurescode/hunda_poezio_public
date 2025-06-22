@@ -1,6 +1,6 @@
-[ QUESTION TO CLAUDE ] What do you think of this Hunda Poezio project? I am uploading an Artist's Manifesto for the project. What do you think?
+[ **QUESTION TO CLAUDE** ] What do you think of this Hunda Poezio project? I am uploading an Artist's Manifesto for the project. What do you think?
 
-[ CLAUDE'S ANSWER ]
+[ **CLAUDE'S ANSWER** ]
 
 # Community Response to Hunda Poezio
 
