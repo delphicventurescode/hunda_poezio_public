@@ -18,12 +18,6 @@ We're drawn to how the project addresses the trauma-informed aspect - using gent
 
 The manifesto's tone strikes a nice balance between playful defiance and genuine philosophical inquiry. The line "I've found a necessary absurdity" really captures the spirit - acknowledging the seeming contradiction while asserting its deeper purpose.
 
-## Questions for the Community
-
-- Have you witnessed any of these poetry sessions with dogs? 
-- What have been the practical aspects and the dogs' responses?
-- How has this project created connections within your community?
-
 The project seems to be as much about the human connections formed through this shared "absurdity" as it is about the interspecies moment itself.
 
 ---
