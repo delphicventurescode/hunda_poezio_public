@@ -9,7 +9,9 @@ This document is part of the *Hundo Poezio / Mjolnir_Poeto* project, which uses 
 JAIPUR
 
 Sur brila fenestr’
+
 paŝas ombroj de pavoj—
+
 Rozoj ĉiamas.
 
 
