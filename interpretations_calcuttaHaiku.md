@@ -54,16 +54,12 @@ Together, they build a **portrait of Calcutta as alive, thoughtful, and historic
 
 ---
 
-### 💡 Optional Alternatives (not required)
-
-- **"Silenta mano verkas"** instead of *skribas* for a more literary feel (*creates* vs. *writes*)
-- **"Tramo — krepusko."** for cinematic minimalism  
-But the original version is excellent and needs no changes.
 
 ---
 
-### ✅ Verdict
+### ✅ ChatGPT's Verdict
 
 This haiku is cinematic and cerebral — a dusk walk through Kolkata, quietly breathing with memory and motion.  
+
 It deserves a prominent place in the series and would pair beautifully with a grayscale illustration of Howrah Bridge or an old tram in twilight.
 
