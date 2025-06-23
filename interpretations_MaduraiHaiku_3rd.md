@@ -54,9 +54,8 @@ It paints Madurai as not just a city, but a **liminal space between sound and si
 
 ### 💡 Optional Refinement
 
-- You could test *"ŝi"* in the final line (e.g., *"Nokto ŝin nomas"*) for clarity,  
-  but **"Nokto ŝian nomon"** is stronger precisely *because* it is incomplete.  
-- The final line reads like a **whispered enigma** — and should be preserved that way.
+- None.  
+  The final line reads like a **whispered enigma** — and should be preserved that way.
 
 ---
 
