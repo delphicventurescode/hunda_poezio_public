@@ -52,6 +52,3 @@ This second haiku presents a playful, human-centered portrait of Jaipur. Childre
 
 ---
 
-## License
-
-This content is part of the open-content *Mjolnir_Poeto* series and may be reused with attribution. Inspired by the idea that language, art, and empathy can cross species and structural boundaries.
