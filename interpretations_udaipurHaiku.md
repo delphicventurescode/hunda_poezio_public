@@ -56,10 +56,3 @@ We welcome additions, forks, or collaborative projects. This repository celebrat
 
 🌊✨📜
 """
-
-# Save the README content to a .md file
-readme_path = "/mnt/data/README.md"
-with open(readme_path, "w", encoding="utf-8") as f:
-    f.write(readme_content)
-
-readme_path
