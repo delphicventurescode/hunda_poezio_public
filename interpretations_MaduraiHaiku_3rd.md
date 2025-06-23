@@ -34,7 +34,7 @@ Nokto ŝian nomon.
 
 **`Nokto ŝian nomon.`**  
 - A poetic fragment. The night… her name.  
-- Does the night **whisper** her name? **Take** it? **Hold** it in silence? Does the night passes by her name, even?
+- Does the night **whisper** her name? **Take** it? **Hold** it in silence? Does the night pass by her name, even?
 - The ambiguity is where the magic lies — it evokes **loss, reverence, and mystery**.
 
 ---
