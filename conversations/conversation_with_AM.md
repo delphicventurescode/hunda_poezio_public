@@ -1,6 +1,6 @@
 # README.md — Savoring, Poetry & La Gxoja Projekto
 
-Welcome to a lighter and deeper corner of *La Gxoja Projekto* — our Happiness Project. This document explains how this poetry initiative, particularly the haiku series in Esperanto (and potentially Telugu), connects with a powerful psychological practice: **savoring**.
+Welcome to a lighter and deeper corner of *La Gxoja Projekto* — our Happiness Project. This document explains how this poetry initiative, particularly the haiku series in Esperanto (and potentially Hindi and other languages), connects with a powerful psychological practice: **savoring**.
 
 ## What Is Savoring?
 
