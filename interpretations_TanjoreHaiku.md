@@ -28,7 +28,7 @@ a dancer held still.
 ### ✨ Commentary
 
 - **Sound, sculpture, and motion** blend in a moment of quiet reverence.
-- The “dancer held still” evokes both stone carvings and the idea of time suspended.
+- The “dancer held still” evokes both stone carvings and the idea of time suspended. Is it a real dancer? Or is it one set in stone?
 - This haiku reflects the aesthetic spirit of Chola architecture and temple life — rhythm frozen in stone.
 
 📘 Part of the [_mjolnir_poeto_](#) project — a multilingual haiku series using **Esperanto** to reflect on world heritage and imagination.
