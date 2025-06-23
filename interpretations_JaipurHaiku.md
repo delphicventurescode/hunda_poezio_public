@@ -52,18 +52,6 @@ This second haiku presents a playful, human-centered portrait of Jaipur. Childre
 
 ---
 
-**Translation (English):**
-
-On sunlit steps  
-children play at being kings—  
-the walls applaud.
-
-**Interpretation:**
-
-This second haiku presents a playful, human-centered portrait of Jaipur. Children reenacting royalty on steps bathed in sunlight brings a delightful image to mind. The phrase "the walls applaud" personifies Jaipur’s ancient architecture—making its silent stones seem complicit in joy and imagination.
-
----
-
 ## License
 
 This content is part of the open-content portion of the *Mjolnir_Poeto* series and may be reused with attribution. Inspired by the idea that language, art, and empathy can cross species and structural boundaries.
