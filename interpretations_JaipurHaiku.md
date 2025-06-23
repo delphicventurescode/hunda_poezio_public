@@ -34,7 +34,9 @@ This haiku celebrates the vibrant aesthetics of Jaipur, the Pink City. The "shin
 JAIPUR - II
 
 Sur ŝtupoj de suno
+
 infanoj ludas je reĝoj—
+
 Muroj aplaŭdas.
 
 
